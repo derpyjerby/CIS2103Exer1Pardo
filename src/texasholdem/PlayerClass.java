@@ -18,7 +18,7 @@ public class PlayerClass {
         boolean isDealer;
     }
     
-    /*
+    
     public void giveAnte (int Ant){
         
     }
@@ -39,5 +39,47 @@ public class PlayerClass {
         
     }
     
-    */
+   
+    
+    class Dealer{
+        String Name;
+   
+     void collectAnte (Player plays[]){
+         
+     }   
+     
+     void shuffleDeck (){
+         
+     }
+     
+     void dealPlayerCards (){
+         
+     }
+     
+     void dealSharedCards (){
+         
+     }
+     
+     void checkHands (){
+         
+     }
+     
+ 
+    }
+    
+    class Human{
+        
+        void changeDifficulty(String newDiff){
+        
+        }
+        
+    }
+    
+    class Computer {
+        String Difficulty;
+        
+        void makeMove (String move){
+            
+        }
+    }
 }

@@ -13,7 +13,7 @@ package texasholdem;
 public class DeckClass {
     CardClass arey[] = new CardClass [52];
     
-    /*
+    
     public void shuffle (){
         
     }
@@ -25,5 +25,5 @@ public class DeckClass {
     public void getAllCards (){
         
     }
-    */
+   
 }

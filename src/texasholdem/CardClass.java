@@ -18,7 +18,7 @@ public class CardClass {
     int face;
     String suit;
   
-    /*
+    
     public void getSuit (String sut){System.out.println(sut);}
     
     public void getFace (int fez){System.out.println(fez);}
@@ -32,5 +32,5 @@ public class CardClass {
         }
         
     }
-    */
+    
 }

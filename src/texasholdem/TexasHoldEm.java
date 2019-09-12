@@ -13,10 +13,23 @@ package texasholdem;
 public class TexasHoldEm {
 
     /**
-     * @param args the command line arguments
+     * @param mem
+     * @param now
+     * @param lingin
+     * @param powt
      */
-    public static void main(String[] args) {
-        System.out.println("Poker!!!");
+    
+    public void start(int mem, int now, int lingin, float powt){
+        
     }
     
+    public static void main(String[] args) {
+        int players, currentPlayer, round;
+        float pot;
+        System.out.println("Poker!!!");
+        CardClass pos = new CardClass (); 
+        start();
+    }
+    
+ 
 }
